@@ -8,7 +8,7 @@
 
 void print_banner() {
     printf("========================================\n");
-    printf("        Welcome to cOS (v0.1)           \n");
+    printf("        Welcome to cOS (v0.0.1)           \n");
     printf("  A Simple Text-based OS Emulator in C   \n");
     printf("========================================\n\n");
 }
