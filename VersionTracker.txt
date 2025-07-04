@@ -1,0 +1,4 @@
+cOS_0.0.1.c = base
+cOS_0.0.2.c = python run patch
+cOS_0.0.3.c = add ls command to python run patch version
+cOS_0.0.4.c = add further functionality to the list command - list storage space
